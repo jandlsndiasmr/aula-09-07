@@ -1,0 +1,12 @@
+form{
+    background-color: rgb(207, 207, 207);
+    flex: 1;
+}
+
+input{
+    margin: 10px;
+}
+
+select{
+    margin: 10px;
+}
